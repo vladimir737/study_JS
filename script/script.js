@@ -1,5 +1,5 @@
 
-    let money = 1;
+    let money = "One";
     let income = 2;
     let addExpenses = 3;
     let deposit = 4;
